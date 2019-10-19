@@ -1,0 +1,147 @@
+*{
+	
+	margin:0px;
+	padding:0px;
+	
+}
+.logo{
+    height:33px;
+    width: auto;
+    background-color:black;
+}
+.logo1{
+    color: aliceblue;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.login>li{
+    font-size: 20px;
+    float: right;
+    padding: 10px 10px 0px 10px;
+    position: relative;
+    list-style: none;
+    border-left: 1px solid white;
+
+}
+.login>li>a{
+   text-decoration: none;
+    color:#3366ff;
+}
+.login>li:hover{
+    background-color: red;
+    
+}
+.menu{
+    background-color: #cccccc;
+    height: 33px;
+    width: 100%;
+    
+}
+.menu>ul>li{
+    font-size: 20px;
+    float: Left;
+    padding: 10px 20px 0px 10px;
+    position: relative;
+    list-style: none;
+}
+.menu>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+.menu>ul>li:hover{
+    background-color: #ff9900;
+}
+.aboutus{
+    background-color:floralwhite;
+    height: auto;
+    width: 100%;
+}
+.aboutus>h1{
+    font-size-adjust: auto;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.aboutus>p{
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+.aboutus1{
+    background-color:chocolate;
+    height: auto;
+    width: 100%;
+    
+}
+.aboutus1>h1{
+    color: aqua;
+    font-size-adjust: auto;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.aboutus1>p{
+    color: chartreuse;
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+.footer1{
+    width: 100%;
+    height: auto;
+    
+}
+#one{
+    width: 40%;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#two{
+    width: 20%;
+}
+#two>ul>li{
+    font-size: 15px;
+    padding: 10px 20px 0px 10px;
+    position: relative;
+    list-style: none;
+}
+#two>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+#two>ul>li:hover{
+    background-color: firebrick;
+}
+#three{
+   width: 20%; 
+}
+#three>ul>li{
+    font-size: 15px;
+    padding: 10px 20px 0px 10px;
+    position: relative;
+    list-style: none;
+}
+#three>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+#three>ul>li:hover{
+    background-color: #ff9900;
+}
+#four{
+   width: 20%; 
+}
+#four>h3{
+    color: coral;
+    padding: 5px 10px 5px 10px;
+}
+.copyright{
+    text-align: center;
+    background-color: chartreuse;
+    font-size: 20px;
+    color: black;
+}
